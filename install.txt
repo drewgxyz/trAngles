@@ -1,0 +1,9 @@
+App name:
+trAng
+
+Install Angular:
+npm install -g @angular/cli
+
+Setup new project w/ Routing:
+ng new trAng
+
